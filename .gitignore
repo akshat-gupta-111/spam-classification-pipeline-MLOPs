@@ -212,3 +212,8 @@ __marimo__/
 /reports
 /experiments
 /logs
+
+.dvcignore
+/dvc.lock
+
+.dvc/.gitignore
