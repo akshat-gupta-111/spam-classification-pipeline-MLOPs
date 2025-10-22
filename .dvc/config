@@ -1,0 +1,4 @@
+[core]
+    remote = my-azure-remote
+['remote "my-azure-remote"']
+    url = azure://mycontainer
