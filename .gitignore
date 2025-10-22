@@ -214,6 +214,6 @@ __marimo__/
 /logs
 
 .dvcignore
-/dvc.lock
+# /dvc.lock
 
 .dvc/.gitignore
